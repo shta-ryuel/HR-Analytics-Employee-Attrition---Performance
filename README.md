@@ -6,7 +6,7 @@ This project analyzes the IBM HR Analytics Employee Attrition & Performance data
 
 - **Objective**: To analyze employee attrition, performance metrics, and identify factors contributing to employee retention.
 - **Dataset**: IBM HR Analytics Employee Attrition & Performance dataset containing 35 columns.
-Link to original dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
+  Link to original dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 
 ## Key Questions Addressed
 
