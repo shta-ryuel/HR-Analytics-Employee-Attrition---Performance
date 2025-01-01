@@ -45,8 +45,8 @@ HR_Analytics/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HR_Analytics.git
-   cd HR_Analytics
+   git clone https://github.com/shta-ryuel/HR-Analytics-Employee-Attrition---Performance.git
+   cd HR_Analytics-Employee-Attrition---Performance
    ```
 2. Run the analysis:
    ```bash
